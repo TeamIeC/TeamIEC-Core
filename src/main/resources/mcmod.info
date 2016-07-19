@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ieccore",
+  "name": "§bTeamIEC Core",
+  "description": "Core mod for nearly all TeamIEC mods.",
+  "version": "0.0.1",
+  "mcversion": "[1.9.4]",
+  "url": "https://github.com/TeamIeC/TeamIEC-Core",
+  "updateUrl": "",
+  "authorList": ["KitsuneAlex", "JasonIEC"],
+  "credits": "Jason for letting me code for TeamIEC again.",
+  "logoFile": "assets/ieccore/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
